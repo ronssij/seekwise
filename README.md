@@ -1,4 +1,4 @@
-# job-radar
+# Seekwise
 
 Local, single-user app that matches open job listings against your own resume.
 
